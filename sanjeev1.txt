@@ -1,0 +1,12 @@
+batch15
+batch 14 
+class 4
+class 5 dir1 dir2
+file1.txt file2.txt
+file3.txt file4.tx
+
+
+
+
+good morning
+

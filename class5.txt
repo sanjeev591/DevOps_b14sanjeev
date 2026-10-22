@@ -1,0 +1,22 @@
+Hello every one 
+good morning
+How are you 
+I am learning Linux
+Linux is a operating system 
+I am practising commands
+The terminal is useful
+We can create files
+
+we can read files 
+We can count files 
+We can count words
+We can count characters
+The wc command is useful
+The ls commans lists files 
+The cat command lists files
+The pwd command shows location 
+The cd commands shows changes directory 
+practise makes learning easy 
+I enjoy learning Linux 
+have a great day 
+Good mornine
